@@ -2,7 +2,7 @@
 SimpleStorage:
   Deployment of a Smart Contract 
 
-StorageFactory.sol:
+StorageFactory:
   Learning stages:
     - import a contract
     - deploy contracts from a contract
